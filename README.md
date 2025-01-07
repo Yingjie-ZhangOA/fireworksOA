@@ -1,1 +1,1 @@
-# OpenAnalytics themed fire works gif maded with ggplot
+OpenAnalytics themed fireworks gif maded with ggplot
